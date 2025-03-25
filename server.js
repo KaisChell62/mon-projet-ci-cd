@@ -7,3 +7,5 @@ app.use('/',(req,res)=>{
 app.listen(4000,()=>{
     console.log("server is running");
 })
+
+console.log("Hello CI/CD")
